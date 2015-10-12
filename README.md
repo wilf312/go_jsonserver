@@ -1,0 +1,2 @@
+# go_jsonserver
+HTTPリクエストを受け付けてJSONで返事をするサーバ例
